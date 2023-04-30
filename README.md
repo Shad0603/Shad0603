@@ -2,7 +2,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Humanoid Robot Computer Vision Project</b>
-  - [Humanoid Robot Computer Vision Project](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
+  - [BEATRICE Humanoid Robot Project](https://github.com/Shad0603/BEATRICE-Humanoid-Robot-Project) <b><i></b></i>
 - <b>Fan Controller Project</b>
   - [Fan Controller Project](https://github.com/Shad0603/Fan_Controller)
 
