@@ -1,8 +1,6 @@
 <h1>Hi, I'm Shad! </h1>
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Humanoid Robot Computer Vision Project</b>
-  - [BEATRICE Humanoid Robot Project](https://github.com/Shad0603/BEATRICE-Humanoid-Robot-Project) <b><i></b></i>
 - <b>Fan Controller Project</b>
   - [Fan Controller Project](https://github.com/Shad0603/Fan_Controller)
 
