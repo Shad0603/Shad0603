@@ -1,8 +1,5 @@
 <h1>Hi, I'm Shad! </h1>
-<h2>👨‍💻 Software Development Projects:</h2>
 
-
-  - [Fan Controller Project](https://github.com/Shad0603/Fan_Controller)
 
 
 <h2> Connect with me:</h2>
